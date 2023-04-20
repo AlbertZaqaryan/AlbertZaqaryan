@@ -13,7 +13,4 @@ I work with python for 5+ years. I can do web and desktop apps, Image<br>process
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertZaqaryan&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AlbertZaqaryan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-* linguist-vendored
-*.py linguist-vendored=false
+![](https://visitcount.itsvg.in/api?id=AlbertZaqaryan&icon=0&color=0)
