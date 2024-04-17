@@ -1,5 +1,5 @@
 # 💫 About Me:
-I work with python for 6+ years. I can do web and desktop apps, Image<br>processing, noise detection, deep learning data and mail scraping, soft<br>apps, data analytic, machine learning, rest API, any chat bots, linux system<br>programming, bash programming and pentesting. I will always be glad to<br>share my knowledge, with everyone who has the desire to get it. And get<br>knowledge of those who want to share with me.
+I work with python for 7+ years. I can do web and desktop apps, Image<br>processing, noise detection, deep learning data and mail scraping, soft<br>apps, data analytic, machine learning, rest API, any chat bots, linux system<br>programming, bash programming and pentesting. I will always be glad to<br>share my knowledge, with everyone who has the desire to get it. And get<br>knowledge of those who want to share with me.
 
 
 ## 🌐 Socials:
